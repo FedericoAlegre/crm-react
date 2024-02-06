@@ -1,0 +1,57 @@
+{
+  "clients": [
+    {
+      "nombre": "ampeter",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "aperrrrrr",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juli",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "santi",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "bauti",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Federico Alegre",
+      "empresa": "BrickControl",
+      "email": "fedealegre.mdp@gmail.com",
+      "telefono": "+5482235456801",
+      "notas": "as",
+      "id": 6
+    },
+    {
+      "nombre": "Mariana Paula Gonzalez",
+      "empresa": "avanzar",
+      "email": "mariana@gmail.com",
+      "telefono": "+3582235456801",
+      "notas": "terapias del bienestar",
+      "id": 7
+    },
+    {
+      "nombre": "homero sinson",
+      "empresa": "planta nuclear",
+      "email": "homero@gmail.som",
+      "telefono": "22342133231",
+      "notas": "homeroooooooooooo",
+      "id": 8
+    }
+  ]
+}
