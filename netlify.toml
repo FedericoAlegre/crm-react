@@ -1,3 +1,13 @@
+[build]
+  command = "npm run build"  # Aquí especifica el comando para construir tu proyecto React
+
+# Esta sección especifica los comandos que se ejecutarán después de la construcción del proyecto
 [dev]
   command = "json-server --watch db.json"  # Aquí especifica tu comando json-server
-  functions = "functions/"
+  functions = "functions/"  # Directorio donde se encuentran las funciones de Netlify
+
+# Esta sección especifica cómo se servirá tu proyecto después de la construcción
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
